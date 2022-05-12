@@ -56,7 +56,6 @@ internal object ShulkerTosser : PluginModule(
         }
     }
 
-    // True means it will not throw
     private fun checkItem(itemStack: ItemStack): Boolean {
         if (itemStack.item is ItemShulkerBox) {
             return !isShulkerEmpty(itemStack)
