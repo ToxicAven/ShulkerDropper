@@ -1,0 +1,10 @@
+{
+  "name": "ShulkerTosser",
+  "version": "1.0",
+  "description": "Plugin to toss empty shulker boxes.",
+  "url": "https://toxicaven.dev",
+  "authors": [ "ToxicAven" ],
+  "main_class": "dev.toxicaven.ShulkerTosserPlugin",
+  "min_api_version": "3.0",
+  "required_plugins": []
+}
